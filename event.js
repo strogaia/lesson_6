@@ -14,7 +14,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 2){
@@ -31,7 +31,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 3){
@@ -48,7 +48,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 4){
@@ -65,7 +65,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 5){
@@ -82,7 +82,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 6){
@@ -99,7 +99,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 7){
@@ -116,7 +116,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 8){
@@ -133,7 +133,7 @@ function showPager( page ){
             <button onclick="showPager(8)">[8]</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 9){
@@ -150,7 +150,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">[9]</button>
             <button onclick="showPager(10)">10</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     } else if( page == 10){
@@ -167,7 +167,7 @@ function showPager( page ){
             <button onclick="showPager(8)">8</button>
             <button onclick="showPager(9)">9</button>
             <button onclick="showPager(10)">[10]</button>
-            <button onclick="showPager()">&lt;</button>
+            <button onclick="showPager()">&gt;</button>
         </p>
         `)
     }
